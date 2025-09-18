@@ -19,6 +19,8 @@ This enables **data-driven decisions** to improve patient care, optimize resourc
 
 - DashBoard Interaction <a href="https://github.com/HimanshupwSR/Data_analysis_Dashboard/blob/main/Screenshot%202025-09-17%20121946.png">View Dashboard</a>
 
+---
+
 ## DashBoard Image
 
 <img width="1449" height="582" alt="Screenshot 2025-09-17 121946" src="https://github.com/user-attachments/assets/bc7f2702-d8f4-44fc-b9c0-5eae76695088" />
