@@ -22,3 +22,17 @@ This enables **data-driven decisions** to improve patient care, optimize resourc
 ## DashBoard Image
 
 <img width="1449" height="582" alt="Screenshot 2025-09-17 121946" src="https://github.com/user-attachments/assets/bc7f2702-d8f4-44fc-b9c0-5eae76695088" />
+
+## 📌 Insights
+- **Balanced Admissions** → Admitted and Not Admitted patients are almost equal.  
+- **Wait Time** → Average wait time (35 mins) could be optimized further.  
+- **High Satisfaction** → Patients report excellent satisfaction despite wait times.  
+- **Demographic Trend** → Young adults (20–29) and seniors (60–69) are frequent ER visitors.  
+- **Referrals** → Most patients did not require referral; General Practice & Orthopedics top the list.  
+
+---
+
+## 🎯 Conclusion
+This dashboard highlights **efficiency, patient demographics, and referral trends** in the emergency room.  
+It empowers hospital administrators to take **data-backed actions** that improve ER workflow and patient outcomes.  
+
